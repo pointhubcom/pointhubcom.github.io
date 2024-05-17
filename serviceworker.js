@@ -1,4 +1,4 @@
-var CACHE_NAME = "ParkingTicketSale";
+var CACHE_NAME = "ParkingCALT";
 var CACHED_URLS = [
   "index.html",
   "global.css",
@@ -14,7 +14,7 @@ var CACHED_URLS = [
   "img/w.png",
   "img/y.png",
   "Manifest.json",
-  "ParkingTicketSale.js",
+  "ParkingCALT.js",
   "uADMIN.btn_login.Bitmaps.Bitmap.svg",
   "uADMIN.btn_search_magam.Bitmaps.Bitmap.svg",
   "uADMIN.page_screens.ButtonAppearance.CloseIcon.svg",
