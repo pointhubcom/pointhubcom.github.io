@@ -3,7 +3,7 @@
    "name":"ParkingTicketSale",
    "description":"",
    "start_url":"index.html",
-   "display":"fullscreen",
+   "display":"standalone",
    "theme_color":"#FFFFFF",
    "background_color":"#FFFFFF",
    "related_applications": [{
